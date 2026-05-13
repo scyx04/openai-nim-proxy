@@ -30,7 +30,7 @@ const MODEL_MAPPING = {
   'gpt-4o': 'minimaxai/minimax-m2.7',
   'claude-3-opus': 'nvidia/nemotron-3-super-120b-a12b',
   'claude-3-sonnet':'mistralai/mistral-small-4-119b-2603',
-  'gemini-pro':    'minimaxai/minimax-m2.7'
+  'gemini-pro':    'bytedance/seed-oss-36b-instruct'
 };
  
 // Health check endpoint
