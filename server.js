@@ -27,7 +27,7 @@ const MODEL_MAPPING = {
   'gpt-3.5-turbo': 'meta/llama-4-maverick-17b-128e-instruct',
   //'gpt-4':         'bytedance/seed-oss-36b-instruct',
  'gpt-4':         'deepseek-ai/deepseek-v4-pro', 
- 'gpt-4-turbo':   'z-ai/glm-5.2',
+ 'gpt-4-turbo':   'mistralai/mistral-small-4-119b-2603',
   //'gpt-4-turbo':   'deepseek-ai/deepseek-r1',
   //'gpt-4o': 'minimaxai/minimax-m2.7',
   'gpt-4o': 'deepseek-ai/deepseek-v4-flash',
