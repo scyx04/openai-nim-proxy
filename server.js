@@ -29,8 +29,8 @@ const MODEL_MAPPING = {
  'gpt-4':         'deepseek-ai/deepseek-v4-flash-0731', 
  'gpt-4-turbo':   'mistralai/mistral-small-4-119b-2603',
   //'gpt-4-turbo':   'deepseek-ai/deepseek-r1',
-  'gpt-4o': 'minimaxai/minimax-m3',
-  //'gpt-4o': 'deepseek-ai/deepseek-v4-flash',
+  //'gpt-4o': 'minimaxai/minimax-m3',
+  'gpt-4o': 'deepseek-ai/deepseek-v4-pro-0813',
   'claude-3-opus': 'nvidia/nemotron-3-super-120b-a12b',
   'claude-3-sonnet':'mistralai/mistral-small-4-119b-2603',
   'gemini-pro':    'bytedance/seed-oss-36b-instruct'
