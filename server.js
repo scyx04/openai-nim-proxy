@@ -26,7 +26,7 @@ const ENABLE_THINKING_MODE = false; // Set to false to disable chat_template_kwa
 const MODEL_MAPPING = {
   'gpt-3.5-turbo': 'meta/llama-4-maverick-17b-128e-instruct',
   //'gpt-4':         'bytedance/seed-oss-36b-instruct',
- 'gpt-4':         'z-ai/glm-5.3-flash', 
+ 'gpt-4':         'moonshotai/kimi-k3.1-pro', 
  'gpt-4-turbo':   'mistralai/mistral-small-4-119b-2603',
   //'gpt-4-turbo':   'deepseek-ai/deepseek-r1',
   //'gpt-4o': 'minimaxai/minimax-m3',
